@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "grails.mime.types.all",
+      "type": "java.lang.String",
+      "description": "Description for grails.mime.types.all."
+  }
+] }
